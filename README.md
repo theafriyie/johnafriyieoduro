@@ -1,6 +1,6 @@
 # John Afriyie Oduro
 
-Computer Engineering graduate from Ghana Communication Technology University with First Class Honors and a CGPA of 3.83, graduating as the overall best Computer Engineering student and the highest-ranked student across the graduating class.
+A Computer Engineering graduate from Ghana Communication Technology University with First Class Honors and a CGPA of 3.83, graduating as the overall best Computer Engineering student and achieved the highest CGPA in the entire graduating class across all faculties.
 
 ## Research Interests
 - Artificial Intelligence
@@ -11,7 +11,7 @@ Computer Engineering graduate from Ghana Communication Technology University wit
 - Smart Technologies
 
 ## Featured Projects
-- Smart Pharmaceutical Storage Monitoring System
+- Smart Pharmaceutical Storage Monitoring and Control System
 - Speech-Controlled Robotic System
 - AI-Assisted Malaria Diagnosis Application
 
