@@ -16,7 +16,7 @@ A Computer Engineering graduate from Ghana Communication Technology University w
 - AI-Assisted Malaria Diagnosis Application
 
 ## Technical Skills
-- Python, C#
+- Python, C#, SQL
 - Embedded C / Arduino
 - Flutter, React
 - Machine Learning
